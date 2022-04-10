@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 💬 I’m currently learning React js
+### 💬 I’m currently working as React Js Developer
 
 ## contact
 [angkithashamsa21@gmail.com](angkithashamsa21@gmail.com)
