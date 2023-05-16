@@ -6,10 +6,10 @@ I'm a skilled front-end developer with a passion for building user-friendly and 
 Currently trying to improve my DSA and algorithm knowledge
 
 ## Skills
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngkitHashamsa&layout=compact&hide=html" alt="AngkitHashamsa" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngkitHashamsa&layout=compact" alt="AngkitHashamsa" /></div>
 <br />
 <br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngkitHashamsa&show_icons=true" alt="AngkitHashamsa" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngkitHashamsa&show_icons=true&count_private=true" alt="AngkitHashamsa" /></div>
 
 <!--
 **AngkitHashamsa/AngkitHashamsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
