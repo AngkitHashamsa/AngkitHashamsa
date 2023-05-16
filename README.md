@@ -1,9 +1,11 @@
-### Hi there 👋
-### 💬 I’m currently working as Frontend Developer
+# Angkit Hashamsa - Front-end Developer
 
-## contact
-[angkithashamsa21@gmail.com](angkithashamsa21@gmail.com)
+About Me
+I'm a skilled front-end developer with a passion for building user-friendly and responsive web applications. With over 1.6 years of experience in the industry, I've honed my skills in JavaScript, React, and PHP to develop high-quality and efficient code that meets client needs.
 
+Currently trying to improve my DSA and algorithm knowledge
+
+## Skills
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngkitHashamsa&layout=compact&hide=html" alt="AngkitHashamsa" /></div>
 <br />
 <br />
