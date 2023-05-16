@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 💬 I’m currently working as React Js Developer
+### 💬 I’m currently working as Frontend Developer
 
 ## contact
 [angkithashamsa21@gmail.com](angkithashamsa21@gmail.com)
